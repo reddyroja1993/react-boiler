@@ -1,4 +1,4 @@
-# Don't check auto-generated stuff into git
+# Don't check auto-generated stuff into git git
 coverage
 build
 node_modules
